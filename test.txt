@@ -2,4 +2,8 @@ test
 
 push test, after cloning
 
+<<<<<<< HEAD
 push failed test 2
+=======
+push failed test
+>>>>>>> 476276ab09b9d9c2e40010203077af9e84993fef
